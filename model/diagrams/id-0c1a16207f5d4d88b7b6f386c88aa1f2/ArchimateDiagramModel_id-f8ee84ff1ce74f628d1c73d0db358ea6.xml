@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Value Chain"
-    id="id-f8ee84ff1ce74f628d1c73d0db358ea6"/>
+    id="id-f8ee84ff1ce74f628d1c73d0db358ea6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-deca538177db4929b6ae98cec03fb6ab">
+    <bounds
+        x="938"
+        y="118"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-a6a3d72d20f24e7fa90a42e9ebdbe6b3.xml#id-a6a3d72d20f24e7fa90a42e9ebdbe6b3"/>
+  </children>
+</archimate:ArchimateDiagramModel>
